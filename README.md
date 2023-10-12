@@ -1,7 +1,7 @@
 Hi! My name is MOHAMED AAFITH 😎
 ========================================================================================================================================
 
-💻  I am a Front-End React Developer based in SriLanka.
+💻  I am a Front-End React Developer based in Sri Lanka.
 <br/>
 
 ### My Skills
