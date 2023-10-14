@@ -6,6 +6,7 @@ Hi! My name is MOHAMED AAFITH 😎
 🚀 In addition to programming, I'm a <b> Fiverr Level Two and Upwork verified seller.</b> These platforms have let me work with international clientele to provide excellent services and solutions. I take pleasure in surpassing client expectations and offering excellent service.
 </p>
 <br/>
+
 ### My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
