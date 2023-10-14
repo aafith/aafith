@@ -1,7 +1,8 @@
 Hi! My name is MOHAMED AAFITH 😎
 ========================================================================================================================================
 
-💻  I am a Front-End React Developer based in Sri Lanka.
+👋 Hello! I'm <b>MOHAMED AAFITH</b>, a passionate front-end React developer who makes dynamic, user-friendly web applications. Using knowledge & determination, I develop your digital ideas. 🚀<br/>
+In addition to programming, I'm a Fiverr Level Two and Upwork verified seller. These platforms have let me work with international clientele to provide excellent services and solutions. I take pleasure in surpassing client expectations and offering excellent service.
 <br/>
 
 ### My Skills
