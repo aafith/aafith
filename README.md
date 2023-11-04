@@ -1,4 +1,4 @@
-Hi! My NAME IS MOHAMED AAFITH 😎
+Hi! MY NAME IS MOHAMED AAFITH 😎
 ========================================================================================================================================
 <p align="justify">
 Hello! I'm { MOHAMED AAFITH } 👋 a skilled Front-End React Developer and WordPress Developer with a passion for creating responsive, user-friendly websites. I specialize in crafting high-quality web applications and WordPress sites tailored to meet clients' specific needs. With a strong background in web development and a keen eye for design, I bring innovative ideas to life, ensuring exceptional user experiences. 💻✨
