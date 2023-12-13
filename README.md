@@ -1,7 +1,7 @@
 Hi! MY NAME IS MOHAMED AFNAN 😎
 ========================================================================================================================================
 <p align="justify">
-🌟 Welcome to my LinkedIn profile! I'm MOHAMED AFNAN, a results-driven Front-End React Developer with a strong foundation in software engineering. Currently pursuing my HND in software engineering, I am dedicated to creating seamless and responsive user experiences.
+🌟 Welcome to my GitHub profile! I'm MOHAMED AFNAN, a results-driven Front-End React Developer with a strong foundation in software engineering. Currently pursuing my HND in software engineering, I am dedicated to creating seamless and responsive user experiences.
 </p>
 
 ### My Skills
