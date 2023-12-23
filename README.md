@@ -1,7 +1,7 @@
 About AFNAN
 ========================================================================================================================================
 <p align="justify">
-MOHAMED AFNAN is a BSc (Hons) Computer Science in Software Engineering at Kingston University (ESOFT Metro Campus). He is a Web Developer and tries to build web accessible for all, he builds projects and tries to solve real-life problems and sometimes fun projects too :)
+My name is Mohamed Afnan, and I am pursuing a BSc (Hons) in Computer Science with a focus on Software Engineering at Kingston University (ESOFT Metro Campus). I am a web developer who is passionate about making the web accessible for everyone. I work on projects to solve real-life problems and occasionally indulge in fun projects as well:)
 </p>
 
 ### Connect with him on:
