@@ -1,7 +1,7 @@
 About AFNAN
 ========================================================================================================================================
 <p align="justify">
-Hello there! I'm Afnan, an enthusiastic undergraduate student studying at Kingston University in London. Passionate about React front-end web development.
+Hello there! I'm Afnan Great to meet you. I see you're an enthusiastic undergrad at Kingston University in London, passionate about React front-end development. Fantastic choice! Explore opportunities like hackathons, internships, and network with peers. Stay updated on React trends, attend conferences, and engage with the community. Best of luck on your journey! If you have specific questions, feel free to ask.
 </p>
 
 ### Connect with him on:
