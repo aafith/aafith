@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MOHAMED+AFNAN!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Buddy!+😊;+I'm+MOHAMED+AFNAN!;" />
 </h1>
 
 About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=blueviolet'/>
@@ -22,3 +22,5 @@ I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Bey
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aafith&theme=buefy&border_radius=0)](https://git.io/streak-stats)
