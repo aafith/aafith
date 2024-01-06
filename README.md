@@ -9,8 +9,9 @@ Hello there! I'm Afnan Great to meet you. I see you're an enthusiastic undergrad
 <div id="badges">
   <a href='https://www.linkedin.com/in/aafith' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0077b5&color=0077b5'/>
   </a>
- <a href="https://dribbble.com/aafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aafith" height="30" width="40" /></a>
-<a href="https://www.behance.net/aafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aafith" height="30" width="40" /></a>
+ <a href='https://dribbble.com/aafith' target="_blank"><img alt='dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=for-the-logo=dribbble&logoColor=FFFFFF&labelColor=ea4c89&color=ea4c89'/></a>
+  <a href='https://www.behance.net/aafith' target="_blank"><img alt='behance' src='https://img.shields.io/badge/behance-100000?style=for-the-badge&logo=behance&logoColor=FFFFFF&labelColor=053eff&color=053eff'/></a>
+  <a href='https://www.hackerone.com/aafith' target="_blank"><img alt='hackerone' src='https://img.shields.io/badge/hackerone-100000?style=for-the-badge&logo=hackerone&logoColor=FFFFFF&labelColor=494649&color=494649'/></a>
 </div>
 
 ### Skills
