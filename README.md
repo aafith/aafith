@@ -1,4 +1,4 @@
-About AFNAN ![](https://komarev.com/ghpvc/?aafith=your-github-username&style=flat-square)
+About AFNAN ![](https://komarev.com/ghpvc/?aafith=your-github-aafith&style=flat-square)
 ========================================================================================================================================
 <p align="justify">
 Hello there! I'm Afnan Great to meet you. I see you're an enthusiastic undergrad at Kingston University in London, passionate about React front-end development. Fantastic choice! Explore opportunities like hackathons, internships, and network with peers. Stay updated on React trends, attend conferences, and engage with the community. Best of luck on your journey! If you have specific questions, feel free to ask.
