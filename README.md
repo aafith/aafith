@@ -6,7 +6,7 @@ About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.
 ========================================================================================================================================
 
 <p align="justify">
-Hello there! I'm Afnan Great to meet you. I see you're an enthusiastic undergrad at Kingston University in London, passionate about React front-end development. Fantastic choice! Explore opportunities like hackathons, internships, and network with peers. Stay updated on React trends, attend conferences, and engage with the community. Best of luck on your journey! If you have specific questions, feel free to ask.
+I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Beyond academics, my entrepreneurial spirit propels me towards new challenges. My analytical skills contribute to a unique perspective. Committed to making a positive impact, I'm dedicated to continuous learning and growth in the dynamic field of information technology.
 </p>
 
 ### Connect with him on:
