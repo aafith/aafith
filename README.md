@@ -22,7 +22,8 @@ I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Bey
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 <br/>
-
+<hr/>
+<br/>
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aafith&theme=buefy&border_radius=0" alt="GitHub Streak" /></a>
 </div>
