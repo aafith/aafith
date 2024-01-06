@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Buddy!+😊;+I'm+MOHAMED+AFNAN!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=7957D5&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AFNAN!" alt="Typing SVG" /></a>
 </h1>
 
 About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=blueviolet'/>
