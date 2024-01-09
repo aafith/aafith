@@ -15,7 +15,7 @@ I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Bey
 ### Connect with him on:
 
 <div id="badges">
-  <a href="https://linkedin.com/in/aafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aafith" height="30" width="40" /></a>
+  <<a href='https://www.linkedin.com/in/aafith' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0077b5&color=0077b5'/>
 <a href="https://www.behance.net/aafith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aafith" height="30" width="40" /></a>
   
 </div>
