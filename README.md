@@ -14,7 +14,7 @@ I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Bey
 
 ### Connect with him on:
 
-<div id="badges">
+<div id="badges" class="flex">
   <a href='https://www.linkedin.com/in/aafith' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0077b5&color=0077b5'/>
   </a>
 
