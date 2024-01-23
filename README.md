@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=4F23E2&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AFNAN!" alt="Typing SVG" /></a>
 </h1>
 
-About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=4F23E2'/>
+About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=0057d8'/>
 ========================================================================================================================================
 
 <p align="justify">
@@ -24,15 +24,15 @@ I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Bey
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 <br/>
 <hr/>
 <br/>
 <div align="center">
     <a>
     <br/>
-    <a href="https://github.com/aafith"><img alt="MOHAMED AFNAN Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aafith&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/aafith"><img alt="MOHAMED AFNAN Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aafith&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/aafith"><img alt="MOHAMED AFNAN Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aafith&show_icons=true&count_private=true&theme=react&border_color=fffff&bg_color=0D1117&title_color=0057d8&icon_color=ffd91b" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/aafith"><img alt="MOHAMED AFNAN Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aafith&langs_count=8&layout=compact&theme=react&border_color=fffff&bg_color=0D1117&title_color=0057d8&icon_color=ffd91b" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
