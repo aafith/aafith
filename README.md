@@ -1,5 +1,4 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="header.png"></div>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=4F23E2&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AFNAN!" alt="Typing SVG" /></a>
@@ -11,6 +10,8 @@ About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.
 <p align="justify">
 I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Beyond academics, my entrepreneurial spirit propels me towards new challenges. My analytical skills contribute to a unique perspective. Committed to making a positive impact, I'm dedicated to continuous learning and growth in the dynamic field of information technology.
 </p>
+
+<img align="right" alt="Coding" width="400" src="logo.png">
 
 ### Connect with him on:
 
