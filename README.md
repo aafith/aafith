@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&pause=1000&color=FFFF01&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AAFITH!" alt="Typing SVG" /></a>
 </h1>
 
-About AAFITH  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=0057d8'/>
+About AAFITH  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=FFFF01'/>
 ========================================================================================================================================
 
 <p align="justify">
@@ -16,7 +16,6 @@ I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Bey
 <div id="social">
 
   <a href='https://www.linkedin.com/in/aafith' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0077b5&color=0077b5'/>
-  <a href='https://www.behance.net/aafith' target="_blank"><img alt='behance' src='https://img.shields.io/badge/behance-100000?style=for-the-badge&logo=behance&logoColor=FFFFFF&labelColor=053eff&color=053eff'/>
 
 </div>
 
