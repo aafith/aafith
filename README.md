@@ -1,10 +1,10 @@
 <div id="top"></div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&pause=1000&color=0057D8&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AFNAN!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&pause=1000&color=FFFF01&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AAFITH!" alt="Typing SVG" /></a>
 </h1>
 
-About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=0057d8'/>
+About AAFITH  <img align="right" alt='GitHub profile views' src='https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=0057d8'/>
 ========================================================================================================================================
 
 <p align="justify">
