@@ -11,8 +11,6 @@ About AFNAN  <img align="right" alt='GitHub profile views' src='https://komarev.
 I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Beyond academics, my entrepreneurial spirit propels me towards new challenges. My analytical skills contribute to a unique perspective. Committed to making a positive impact, I'm dedicated to continuous learning and growth in the dynamic field of information technology.
 </p>
 
-<img align="right" alt="Coding" width="400" src="logo.png">
-
 ### Connect with him on:
 
 <div id="social">
