@@ -8,7 +8,9 @@ About AAFITH  <img align="right" alt='GitHub profile views' src='https://komarev
 ========================================================================================================================================
 
 <p align="justify">
-I'm a Kingston University student skilled in HTML, CSS, PHP, and JavaScript. Beyond academics, my entrepreneurial spirit propels me towards new challenges. My analytical skills contribute to a unique perspective. Committed to making a positive impact, I'm dedicated to continuous learning and growth in the dynamic field of information technology.
+As a BSc (Hons) Computer Science graduate specializing in Software Engineering, I have a passion for creating user-friendly and visually appealing UI/UX designs. With experience as a Fiverr freelancer, I have honed my skills in SEO, ensuring that websites not only look great but also rank high in search engine results.
+
+My goal is to merge technical expertise with creative design to deliver optimal digital solutions. Let's connect and explore opportunities where I can help enhance your digital presence.
 </p>
 
 ### Connect with him on:
