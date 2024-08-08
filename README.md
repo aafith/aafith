@@ -38,6 +38,6 @@
   <li>I am currently freelancing on Upwork.</li>
 </ul>
 
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
-
-<a href="https://www.buymeacoffee.com/aafith" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<h3>Looking for a website developer?</h3>
+<p>If you're looking for a dedicated and skilled developer for your next project, I can help bring your vision to life. Whether it's a new website, web application, or redesign, let's make it happen!</p>
+<p>Feel free to <a href="https://www.upwork.com/freelancers/aafith" target="_blank">hire me on Upwork</a> for your development needs!</p>
