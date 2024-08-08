@@ -11,10 +11,10 @@
     <h2>About AAFITH</h2>
     <img align="right" alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=white&labelColor=white&logoColor=black" />
     <p align="justify">
-        As a BSc (Hons) Computer Science graduate specializing in Software Engineering, I have a passion for creating user-friendly and visually appealing UI/UX designs. With experience as a Fiverr freelancer, I have honed my skills in SEO, ensuring that websites not only look great but also rank high in search engine results.
+        As a BSc (Hons) Computer Science graduate specializing in Software Engineering, I am passionate about creating user-friendly and visually appealing UI/UX designs. With experience as a Fiverr freelancer, I have honed my skills in SEO, ensuring that websites not only look great but also rank high in search engine results.
     </p>
     <p align="justify">
-        My goal is to merge technical expertise with creative design to deliver optimal digital solutions. Let's connect and explore opportunities where I can help enhance your digital presence.
+        I aim to merge technical expertise with creative design to deliver optimal digital solutions. I'd like to connect and explore opportunities where I can help enhance your digital presence.
     </p>
 </div>
 
@@ -22,7 +22,7 @@
     <h3>Connect with me on:</h3>
     <div id="social">
         <a href="https://www.linkedin.com/in/aafith" target="_blank">
-            <img alt="linkedin" src="https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=00000&labelColor=FFFFFF&color=FFFFFF" />
+    <    img alt="linkedin" src="https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" />
         </a>
     </div>
 </div>
