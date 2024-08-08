@@ -31,16 +31,16 @@
     <h3>Skills</h3>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="My Skills" />
+            <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills" style="filter: grayscale(100%);" />
         </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap&theme=dark" alt="My Skills" />
+            <img src="https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap" alt="My Skills" style="filter: grayscale(100%);" />
         </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="My Skills" />
+            <img src="https://skillicons.dev/icons?i=git,github" alt="My Skills" style="filter: grayscale(100%);" />
         </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=figma,ai&theme=dark" alt="My Skills" />
+            <img src="https://skillicons.dev/icons?i=figma,ai" alt="My Skills" style="filter: grayscale(100%);" />
         </a>
     </div>
 </div>
