@@ -22,7 +22,7 @@
     <h3>Connect with me on:</h3>
     <div id="social">
         <a href="https://www.linkedin.com/in/aafith" target="_blank">
-            <img alt="linkedin" src="https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=FFFFFF&color=FFFFFF" />
+            <img alt="linkedin" src="https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=00000&labelColor=FFFFFF&color=FFFFFF" />
         </a>
     </div>
 </div>
