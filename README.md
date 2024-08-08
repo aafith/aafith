@@ -32,11 +32,11 @@
 <h3>Who Me?</h3>
 <ul>
 <ul>
-    <li>My name is Mohamed Afnan Aafith.</li>
-    <li>I have completed an HND in Software Engineering.</li>
-    <li>I am currently studying a BSc (Hons) in Computer Science, specializing in Software Engineering at Kingston University, London, UK.</li>
-    <li>I have 6 months of experience working as a graphic designer at Ideageek.</li>
-    <li>I am currently freelancing on Upwork.</li>
+  <li>My name is Mohamed Afnan Aafith.</li>
+  <li>I have completed an HND in Software Engineering.</li>
+  <li>I am currently studying a BSc (Hons) in Computer Science, specializing in Software Engineering at Kingston University, London, UK.</li>
+  <li>I have 6 months of experience working as a graphic designer at Ideageek.</li>
+  <li>I am currently freelancing on Upwork.</li>
 </ul>
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
