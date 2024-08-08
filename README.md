@@ -41,6 +41,3 @@
 <h3>Looking for a website developer?</h3>
 <p>If you're looking for a dedicated and skilled developer for your next project, I can help bring your vision to life. Whether it's a new website, web application, or redesign, let's make it happen!</p>
 <p>Feel free to hire me for your development needs!</p>
-<p>
-  <a href="mailto:your-email@example.com" style="display:inline-block;padding:10px 20px;font-size:16px;font-weight:bold;color:#fff;background-color:#007bff;border-radius:5px;text-decoration:none;">Hire Me</a>
-</p>
