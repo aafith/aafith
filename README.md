@@ -1,46 +1,44 @@
-<div id="top" style="background-color: black; color: white; padding: 20px; text-align: center;">
-    <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image" style="width: 100%; height: auto;"/>
-    <h1 style="text-align: center;">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AAFITH!" alt="Typing SVG" style="display: block; margin: auto;"/>
-        </a>
-    </h1>
-</div>
+### 👋 Hi there, I'm Mohamed Aafith!
 
-<div style="background-color: black; color: white; padding: 20px;">
-    <h2>About AAFITH</h2>
-    <img align="right" alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=aafith&style=flat-square&color=white&labelColor=white&logoColor=black" />
-    <p align="justify">
-        As a BSc (Hons) Computer Science graduate specializing in Software Engineering, I have a passion for creating user-friendly and visually appealing UI/UX designs. With experience as a Fiverr freelancer, I have honed my skills in SEO, ensuring that websites not only look great but also rank high in search engine results.
-    </p>
-    <p align="justify">
-        My goal is to merge technical expertise with creative design to deliver optimal digital solutions. Let's connect and explore opportunities where I can help enhance your digital presence.
-    </p>
-</div>
+---
 
-<div style="background-color: black; color: white; padding: 20px;">
-    <h3>Connect with me on:</h3>
-    <div id="social">
-        <a href="https://www.linkedin.com/in/aafith" target="_blank">
-            <img alt="linkedin" src="https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=333333&labelColor=FFFFFF&color=FFFFFF" />
-        </a>
-    </div>
-</div>
+![](https://komarev.com/ghpvc/?username=aafith&color=fb4362)
 
-<div style="background-color: black; color: white; padding: 20px;">
-    <h3>Skills</h3>
-    <div>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills" style="filter: grayscale(100%);" />
-        </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap" alt="My Skills" style="filter: grayscale(100%);" />
-        </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github" alt="My Skills" style="filter: grayscale(100%);" />
-        </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=figma,ai" alt="My Skills" style="filter: grayscale(100%);" />
-        </a>
-    </div>
-</div>
+<h3>When I code, I rely on</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+</p>
+
+<h3>Who Me?</h3>
+<ul>
+<ul>
+    <li>My name is Mohamed Afnan Aafith.</li>
+    <li>I have completed an HND in Software Engineering.</li>
+    <li>I am currently studying a BSc (Hons) in Computer Science, specializing in Software Engineering at Kingston University, London, UK.</li>
+    <li>I have 6 months of experience working as a graphic designer at Ideageek.</li>
+    <li>I am currently freelancing on Upwork.</li>
+</ul>
+
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
+
+<a href="https://www.buymeacoffee.com/aafith" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
