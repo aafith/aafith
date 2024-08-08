@@ -31,7 +31,6 @@
 
 <h3>Who Me?</h3>
 <ul>
-<ul>
   <li>My name is Mohamed Afnan Aafith.</li>
   <li>I have completed an HND in Software Engineering.</li>
   <li>I am currently studying a BSc (Hons) in Computer Science, specializing in Software Engineering at Kingston University, London, UK.</li>
