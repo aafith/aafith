@@ -1,8 +1,8 @@
 <div id="top" style="background-color: black; color: white; padding: 20px; text-align: center;">
     <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image" style="width: 100%; height: auto;"/>
-    <h1>
+    <h1 style="text-align: center;">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AAFITH!" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AAFITH!" alt="Typing SVG" style="display: block; margin: auto;"/>
         </a>
     </h1>
 </div>
@@ -31,16 +31,16 @@
     <h3>Skills</h3>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js" alt="My Skills" style="filter: grayscale(100%);" />
+            <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="My Skills" />
         </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap" alt="My Skills" style="filter: grayscale(100%);" />
+            <img src="https://skillicons.dev/icons?i=react,wordpress,tailwind,bootstrap&theme=dark" alt="My Skills" />
         </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github" alt="My Skills" style="filter: grayscale(100%);" />
+            <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="My Skills" />
         </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=figma,ai" alt="My Skills" style="filter: grayscale(100%);" />
+            <img src="https://skillicons.dev/icons?i=figma,ai&theme=dark" alt="My Skills" />
         </a>
     </div>
 </div>
