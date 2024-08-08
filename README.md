@@ -1,4 +1,5 @@
 <div id="top" style="background-color: black; color: white; padding: 20px; text-align: center;">
+    <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image" style="width: 100%; height: auto;"/>
     <h1>
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi+Buddy!%F0%9F%98%8A;I'm+MOHAMED+AAFITH!" alt="Typing SVG" />
