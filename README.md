@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Mohamed Aafith!
+### 👋 Hi, I'm Mohamed Aafith!
 
 ---
 
@@ -32,11 +32,19 @@
 
 <h3>Who Me?</h3>
 <ul>
-  <li>My name is Mohamed Afnan Aafith.</li>
-  <li>I have completed an HND in Software Engineering.</li>
-  <li>I am currently studying a BSc (Hons) in Computer Science, specializing in Software Engineering at Kingston University, London, UK.</li>
-  <li>I have 6 months of experience working as a graphic designer at Ideageek.</li>
-  <li>I am currently freelancing on Upwork.</li>
+ <li>My name is Mohamed Afnan Aafith.</li>
+ <li><strong>Education:</strong>
+    <ul>
+      <li><strong>BSc (Hons) in Computer Science</strong> - Specialized in Software Engineering, Kingston University, London, UK</li>
+      <li><strong>Higher National Diploma (HND) in Computing</strong> - Specialized in Software Engineering</li>
+      <li><strong>Advanced Level (A/L) in Business/Commerce</strong> - General</li>
+    </ul>
+  </li>
+  <li><strong>Experience:</strong>
+    <ul>
+      <li>Currently working as a <strong>freelancer on Upwork</strong>.</li>
+    </ul>
+  </li>
 </ul>
 
 <h3>Looking for a website developer?</h3>
