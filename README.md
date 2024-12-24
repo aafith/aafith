@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="Welcome Banner" style="width:100%; height:auto;" />
+
 ### 👋 Hi, I'm Mohamed Aafith!
 
 ---
